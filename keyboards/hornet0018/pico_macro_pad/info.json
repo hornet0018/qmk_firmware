@@ -26,7 +26,7 @@
         "vid": "0x5954"
     },
     "rgblight": {
-        "led_count": 12,
+        "led_count": 7,
         "pin": "GP9",
         "sleep": true,
         "animations": {
